@@ -1,5 +1,5 @@
 name: tool-labels
-version: 1.0.0
+version: 1.2.0
 description: "Fixes desktop tool-group summaries so they describe what the calls actually were — 'Searched 2 queries' instead of 'Explored 2 files'. Derives labels from the tool rows in each group and survives app updates."
 author: "semirkabir"
 kind: standalone
